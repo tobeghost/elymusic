@@ -1,0 +1,13 @@
+{
+  "name": "ElyMusic",
+  "description": "ElyMusic Discord Bot",
+  "repository": "https://github.com/tobeghost/elymusic",
+  "logo": "https://i.imgur.com/JFxgbWH.png",
+  "keywords": [
+    "elymusic",
+    "discord",
+    "bot",
+    "music",
+    "elysoon"
+  ]
+}
